@@ -1,4 +1,4 @@
-package com.yhe.flutternavigatedemo2
+package com.yhe.flutternavigatedemo
 
 import android.os.Bundle
 
